@@ -127,7 +127,7 @@ main > img {
     width: 100px;
 }
 main img.pequena {
-    max-width: 350px;
+    max-width: 667px;
     display: block;
     margin: auto;
     
